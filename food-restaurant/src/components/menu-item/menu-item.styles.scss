@@ -8,6 +8,7 @@
   border: 1px solid black;
   margin: 0 7.5px 15px;
   overflow:hidden;
+  box-shadow: 10px 10px 9px -3px black;
 
   &:hover {
     cursor: pointer;
@@ -56,15 +57,17 @@
 
     .title {
       font-weight: bold;
-      margin-bottom: 6px;
-      font-size: 22px;
-      color: yellow;
+      margin-bottom: -4px;
+    font-size: 30px;
+    color: yellow;
+    letter-spacing: 3px;
     }
 
     .subtitle {
       font-weight: lighter;
-      font-size: 2em;
-      color: yellow;
+      font-size: 1.4em;
+    color: yellow;
+    margin-bottom: 13px;
     }
   }
 }
