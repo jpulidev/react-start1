@@ -8,7 +8,7 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: "Pull Pork",
+          title: "Pulled Pork",
           imageUrl: "https://source.unsplash.com/random/?food,pork",
           id: 1,
           linkUrl: "hats",
