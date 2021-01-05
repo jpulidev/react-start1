@@ -8,8 +8,8 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: "Pulled Pork",
-          imageUrl: "https://source.unsplash.com/random/?pork",
+          title: "Sandwiches",
+          imageUrl: "https://source.unsplash.com/random/?Sandwiches",
           id: 1,
           linkUrl: "shop/hats",
         },
@@ -27,7 +27,7 @@ class Directory extends React.Component {
         },
         {
           title: "Burgers",
-          imageUrl: "https://source.unsplash.com/random/?burger",
+          imageUrl: "https://source.unsplash.com/random/?cheeseburger",
           size: "large",
           id: 4,
           linkUrl: "shop/womens",
